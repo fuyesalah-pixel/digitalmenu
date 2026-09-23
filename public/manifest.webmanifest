@@ -1,0 +1,10 @@
+{
+  "name": "Sunrise Cafe",
+  "short_name": "Sunrise Menu",
+  "description": "The Sunrise Cafe digital menu from Bole Atlas, Addis Ababa.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f4ed",
+  "theme_color": "#252522",
+  "icons": [{ "src": "/favicon.svg", "sizes": "64x64", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
